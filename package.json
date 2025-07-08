@@ -1,6 +1,6 @@
 {
   "name": "@localzet/aura-contract",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "public": true,
   "license": "AGPL-3.0-only",
   "description": "A contract library for Aura.",
