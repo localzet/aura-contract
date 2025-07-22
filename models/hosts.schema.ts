@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { SECURITY_LAYERS } from '../constants/hosts';
+import { SECURITY_LAYERS } from '../constants';
 
 export const HostsSchema = z.object({
     uuid: z.string().uuid(),

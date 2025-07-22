@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { BaseStatSchema } from '../../models/base-stat.schema';
+import { BaseStatSchema } from '../../models';
 import { getEndpointDetails } from '../../constants';
 import { REST_API, SYSTEM_ROUTES } from '../../api';
 

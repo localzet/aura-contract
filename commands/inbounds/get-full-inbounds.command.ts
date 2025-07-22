@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { FullInboundsSchema } from '../../models/full-inbounds.schema';
+import { FullInboundsSchema } from '../../models';
 import { INBOUNDS_ROUTES, REST_API } from '../../api';
 import { getEndpointDetails } from '../../constants';
 

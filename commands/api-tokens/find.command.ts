@@ -1,6 +1,6 @@
 import { z } from 'zod';
 
-import { ApiTokensSchema } from '../../models/api-tokens.schema';
+import { ApiTokensSchema } from '../../models';
 import { REST_API, API_TOKENS_ROUTES } from '../../api';
 import { getEndpointDetails } from '../../constants';
 
